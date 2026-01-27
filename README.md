@@ -131,13 +131,6 @@ To add new features:
 3. **Custom Prompts**: Update `PromptTemplate` class
 4. **Additional Retrieval Strategies**: Extend `QueryEngineBuilder`
 
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines here]
 
 ## Acknowledgments
 
