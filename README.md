@@ -91,8 +91,6 @@ The application can be configured through environment variables or by modifying 
 - **Top-K Retrieval**: `SIMILARITY_TOP_K` (default: 2)
 - **Similarity Cutoff**: `SIMILARITY_CUTOFF` (default: 0.5)
 
-See `.env.example` for all available configuration options.
-
 ## Architecture
 
 The application follows a modular architecture:
