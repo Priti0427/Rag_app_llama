@@ -42,7 +42,7 @@ Rag_app_llama-1/
    cd Rag_app_llama-1
    ```
 
-2. **Create a virtual environment** (recommended):
+2. **Create a virtual environment** :
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -53,7 +53,7 @@ Rag_app_llama-1/
    pip install -r requirements.txt
    ```
 
-4. **Set up environment variables** (optional):
+4. **Set up environment variables** :
    ```bash
    cp .env.example .env
    # Edit .env with your preferred settings
@@ -111,14 +111,6 @@ The application follows a modular architecture:
 - **PyTorch**: Deep learning framework
 
 ## Development
-
-### Code Structure
-
-The codebase is organized into logical modules:
-
-- Each module has a single responsibility
-- Components are loosely coupled and easily testable
-- Configuration is centralized and environment-aware
 
 ### Extending the Application
 
