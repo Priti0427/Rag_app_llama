@@ -38,7 +38,7 @@ Rag_app_llama-1/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Priti0427/Rag_app_llama.git
    cd Rag_app_llama-1
    ```
 
