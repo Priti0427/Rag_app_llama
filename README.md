@@ -39,7 +39,7 @@ Rag_app_llama-1/
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Priti0427/Rag_app_llama.git
-   cd Rag_app_llama-1
+   cd Rag_app_llama
    ```
 
 2. **Create a virtual environment** :
